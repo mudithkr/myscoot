@@ -1,0 +1,212 @@
+{
+  "sponsors": [
+    {
+      "category":"TITLE SPONSOR",
+      "names": ["T.I.M.E."]
+    },
+    {
+      "category":"TECHNICAL SPONSOR",
+      "names": ["ACE","Dhyeya IAS"]
+    },
+    {
+      "category":"FOOD PARTNER",
+      "names": ["Coffee Culture","Mr. James"]
+    }
+  ],
+  "tEvents": [
+    {
+      "name": "LITERARY",
+      "subEvents": [
+        {
+          "name": "SCAN F",
+          "timeLimit": "3 minutes per round",
+          "rounds": "2",
+          "fees": "10rs/-",
+          "participants": "1",
+          "description": "Each participant will be provided with sheet of paper containingfew paragraphs and at end questions will be asked from those paragraphs"
+        },
+        {
+          "name": "AV QUIZ",
+          "timeLimit": "3 minutes per round",
+          "rounds": "2",
+          "fees": "10rs/-",
+          "participants": "1",
+          "description": "Each participant will be provided with sheet of paper containingfew paragraphs and at end questions will be asked from those paragraphs"
+        },
+        {
+          "name": "WORD",
+          "timeLimit": "3 minutes per round",
+          "rounds": "2",
+          "fees": "10rs/-",
+          "participants": "1",
+          "description": "Each participant will be provided with sheet of paper containingfew paragraphs and at end questions will be asked from those paragraphs"
+        },
+        {
+          "name": "GROUP DISCUSSION",
+          "timeLimit": "3 minutes per round",
+          "rounds": "2",
+          "fees": "10rs/-",
+          "participants": "1",
+          "description": "Each participant will be provided with sheet of paper containingfew paragraphs and at end questions will be asked from those paragraphs"
+        },
+        {
+          "name": "INSTA ADD",
+          "timeLimit": "3 minutes per round",
+          "rounds": "2",
+          "fees": "10rs/-",
+          "participants": "1",
+          "description": "Each participant will be provided with sheet of paper containingfew paragraphs and at end questions will be asked from those paragraphs"
+        }
+      ]
+    },
+    {
+      "name": "TECHNICAL",
+      "subEvents": [
+        {
+          "name": "LAN GAMING",
+          "timeLimit": "3 minutes per round",
+          "rounds": "2",
+          "fees": "10rs/-",
+          "participants": "1",
+          "description": "Each participant will be provided with sheet of paper containingfew paragraphs and at end questions will be asked from those paragraphs"
+        },
+        {
+          "name": "APTITUDE TEST",
+          "timeLimit": "3 minutes per round",
+          "rounds": "2",
+          "fees": "10rs/-",
+          "participants": "1",
+          "description": "Each participant will be provided with sheet of paper containingfew paragraphs and at end questions will be asked from those paragraphs"
+        },
+        {
+          "name": "TECH QUIZ",
+          "timeLimit": "3 minutes per round",
+          "rounds": "2",
+          "fees": "10rs/-",
+          "participants": "1",
+          "description": "Each participant will be provided with sheet of paper containingfew paragraphs and at end questions will be asked from those paragraphs"
+        },
+        {
+          "name": "CODE WARS",
+          "timeLimit": "3 minutes per round",
+          "rounds": "2",
+          "fees": "10rs/-",
+          "participants": "1",
+          "description": "Each participant will be provided with sheet of paper containingfew paragraphs and at end questions will be asked from those paragraphs"
+        }
+      ]
+    },
+    {
+      "name": "CULTURAL",
+      "subEvents": [
+        {
+          "name": "MOVIE MANIACS",
+          "timeLimit": "3 minutes per round",
+          "rounds": "2",
+          "fees": "10rs/-",
+          "participants": "1",
+          "description": "Each participant will be provided with sheet of paper containingfew paragraphs and at end questions will be asked from those paragraphs"
+        },
+        {
+          "name": "PAPER FASHIONISTA",
+          "timeLimit": "3 minutes per round",
+          "rounds": "2",
+          "fees": "10rs/-",
+          "participants": "1",
+          "description": "Each participant will be provided with sheet of paper containingfew paragraphs and at end questions will be asked from those paragraphs"
+        },
+        {
+          "name": "SOAP SCULPTURE",
+          "timeLimit": "3 minutes per round",
+          "rounds": "2",
+          "fees": "10rs/-",
+          "participants": "1",
+          "description": "Each participant will be provided with sheet of paper containingfew paragraphs and at end questions will be asked from those paragraphs"
+        },
+        {
+          "name": "INKREDIBILES",
+          "timeLimit": "3 minutes per round",
+          "rounds": "2",
+          "fees": "10rs/-",
+          "participants": "1",
+          "description": "Each participant will be provided with sheet of paper containingfew paragraphs and at end questions will be asked from those paragraphs"
+        }
+      ]
+    },
+    {
+      "name": "INFORMAL",
+      "subEvents": [
+        {
+          "name": "KRITSVILLA",
+          "timeLimit": "3 minutes per round",
+          "rounds": "2",
+          "fees": "10rs/-",
+          "participants": "1",
+          "description": "Each participant will be provided with sheet of paper containingfew paragraphs and at end questions will be asked from those paragraphs"
+        },
+        {
+          "name": "RAMPAGE",
+          "timeLimit": "3 minutes per round",
+          "rounds": "2",
+          "fees": "10rs/-",
+          "participants": "1",
+          "description": "Each participant will be provided with sheet of paper containingfew paragraphs and at end questions will be asked from those paragraphs"
+        },
+        {
+          "name": "SCAVANGER HUNT",
+          "timeLimit": "3 minutes per round",
+          "rounds": "2",
+          "fees": "10rs/-",
+          "participants": "1",
+          "description": "Each participant will be provided with sheet of paper containingfew paragraphs and at end questions will be asked from those paragraphs"
+        },
+        {
+          "name": "TAMBOLA",
+          "timeLimit": "3 minutes per round",
+          "rounds": "2",
+          "fees": "10rs/-",
+          "participants": "1",
+          "description": "Each participant will be provided with sheet of paper containingfew paragraphs and at end questions will be asked from those paragraphs"
+        },
+        {
+          "name": "DEDICATION",
+          "timeLimit": "3 minutes per round",
+          "rounds": "2",
+          "fees": "10rs/-",
+          "participants": "1",
+          "description": "Each participant will be provided with sheet of paper containingfew paragraphs and at end questions will be asked from those paragraphs"
+        }
+      ]
+    }
+  ],
+  "developer": [{
+    "name": "Mudit Sharma",
+    "designation": "Software Development Engineer"
+  }],
+  "results": [
+    {
+      "name": "TECH QUIZ",
+      "winner": ["Ayushi Gupta, jayendra Pandey","Utakarsh","Kushagra shukla"]
+    },
+    {
+      "name": "APTITUDE TEST",
+      "winner": ["Ayushi Gupta, jayendra Pandey","Utakarsh","Kushagra shukla"]
+    },
+    {
+      "name": "SCOOP CULTURE",
+      "winner": ["Ayushi Gupta, jayendra Pandey","Utakarsh","Kushagra shukla"]
+    },
+    {
+      "name": "PAPER FASHIONISTA",
+      "winner": ["Ayushi Gupta, jayendra Pandey","Utakarsh","Kushagra shukla"]
+    },
+    {
+      "name": "INSTA ADD",
+      "winner": ["Ayushi Gupta, jayendra Pandey","Utakarsh","Kushagra shukla"]
+    },
+    {
+      "name": "SCAVANGER HUNT",
+      "winner": ["Ayushi Gupta, jayendra Pandey","Utakarsh","Kushagra shukla"]
+    }
+  ]
+}

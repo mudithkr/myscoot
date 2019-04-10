@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "568463411596",
+    "firebase_url": "https://myscoot-task-mudit.firebaseio.com",
+    "project_id": "myscoot-task-mudit",
+    "storage_bucket": "myscoot-task-mudit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568463411596:android:18492a854f1a3440",
+        "android_client_info": {
+          "package_name": "com.mudit.myscoottaskmudit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu1lwtUsLwOWbacu7Afh5k44U5_2R9F_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568463411596-q8rtepnr967p6r0n360h5k9346kgrrff.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "568463411596-gkaik9inrn4k0iknhcd4b6uhl5qgpc5u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mudit.tast"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
